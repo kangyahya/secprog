@@ -1,0 +1,46 @@
+body{
+	font-family: "Garamond";
+}
+
+td,th{
+	/*padding: 5px 10px;*/
+	padding: 2px 0px;
+	line-height: 12pt
+}
+th{
+	text-align: center
+}
+.tdcenter{
+	text-align: center
+}
+
+
+#header_ijazah{ 
+	height: 6cm; 
+}
+
+/*#body_ijazah{ height: 14.5cm; }*/
+
+#header_ijazah,#body_ijazah{
+	width: 24cm;
+	background-color: #ffffee;
+	margin:0 auto;
+}
+
+#nama_mahasiswa{
+	font-size: 18pt;
+	font-weight: bold;
+}
+
+#temtala{
+	font-size:12pt;
+}
+
+.temtala{
+	/*padding: 1px;*/
+}
+
+
+.temtala_left	{  }
+.temtala_mid	{  }
+.temtala_left	{  }
